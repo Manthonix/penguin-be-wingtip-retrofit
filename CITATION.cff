@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "c(k) wing trade law and Penguin BE wingtip retrofit: code and data"
+authors:
+  - family-names: Rana
+    given-names: Manthan
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0008-4174-327X"
+version: 1.0.0
+date-released: 2026-11-20
+license: MIT
+repository-code: "https://github.com/Manthonix/penguin-be-wingtip-retrofit"
+keywords:
+  - lifting-line theory
+  - induced drag
+  - wing bending
+  - load alleviation
+  - UAV
