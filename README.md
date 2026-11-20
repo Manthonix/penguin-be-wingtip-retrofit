@@ -1,6 +1,6 @@
 # c(k) Wing Trade Law and Penguin BE Wingtip Retrofit
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1465262967.svg)](https://doi.org/10.5281/zenodo.24393993)
 
 A longer wing makes less induced drag but bends its structure harder. This project asks how much extra span an *existing* wing can afford within its current bending limits, and answers it in two parts:
 
