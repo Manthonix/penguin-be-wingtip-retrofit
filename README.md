@@ -51,10 +51,6 @@ Straight-tapered planform approximating the real wing; NACA 2412 sections; rigid
 - Paper: [engrXiv preprint, DOI pending]
 - Earlier theory-only repository: [wing-loading-tradeoff](https://github.com/Manthonix/wing-loading-tradeoff)
 
-## AI use
-
-[Your AI-use statement, the same wording as in the paper.]
-
 ## Citation and licence
 
 Cite via `CITATION.cff` or the Zenodo DOI above. Code: MIT. Data and figures: CC BY 4.0.
