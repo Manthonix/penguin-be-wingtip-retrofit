@@ -1,0 +1,4 @@
+4890 wings evaluated in 85.5 s; feasible: 1566
+baseline: VA=36.60 m/s  VS1=18.78  CLmax=1.236  CDnw*S=147.6 cm2
+baseline loads (N m): [('M+3.8', np.float64(291.5), np.float64(115.3)), ('M-1.52', np.float64(-116.8), np.float64(-46.3)), ('G+15', np.float64(236.1), np.float64(93.4)), ('G-15', np.float64(-178.3), np.float64(-70.6))]
+{'P_cruise': np.float64(212.223), 'D_total': np.float64(9.6465), 'Di': np.float64(3.0669), 'Dp': np.float64(2.2036), 'e': np.float64(0.9693), 'CL': np.float64(0.7414), 'P_loiter': np.float64(203.6327), 'V_loiter': np.float64(21.2962), 'VS_mtow': np.float64(18.7769), 'CLmax': np.float64(1.2363), 'stall_y': np.float64(1.0356), 'ail_mean': np.float64(0.9191), 'r_root': np.float64(1.0), 'r_join': np.float64(1.0), 'tip_chord': 0.1584, 'pb2v': np.float64(0.1443), 'm_ext': 0.0, 'dext': 0.0, 'S': np.float64(0.79), 'AR': np.float64(13.7848), 'worst_case_root': 'M+3.8', 'worst_case_join': 'M+3.8'}

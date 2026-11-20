@@ -1,0 +1,27 @@
+passive  W0 Baseline                      feas=True  cruise  +0.00% loiter  +0.00% Di   +0.0% Dp  +0.0% root 1.000 join 1.000 pb2v 0.144 ail 0.919 m 0.00 span 3.300 
+passive  W1 Software-only alleviation     feas=True  cruise  +0.00% loiter  +0.00% Di   +0.0% Dp  +0.0% root 0.866 join 0.810 pb2v 0.144 ail 0.919 m 0.00 span 3.300 
+passive  W2 Recommended                   feas=False cruise  +5.88% loiter +10.16% Di  -21.1% Dp  +5.0% root 0.958 join 1.023 pb2v 0.132 ail 0.986 m 0.22 span 3.712 A2 joiner
+passive  W3 Lifting-line rank 1, rejected by VLM feas=False cruise  +6.70% loiter +11.89% Di  -24.1% Dp  +6.1% root 0.973 join 1.063 pb2v 0.137 ail 0.989 m 0.24 span 3.795 A2 joiner
+passive  W4 Max loiter                    feas=False cruise  +6.27% loiter +11.91% Di  -24.3% Dp  +8.0% root 0.984 join 1.076 pb2v 0.129 ail 0.989 m 0.27 span 3.877 A2 joiner
+passive  W5 Max roll authority            feas=True  cruise  +1.24% loiter  +1.85% Di   -4.7% Dp  +1.2% root 0.961 join 0.927 pb2v 0.149 ail 0.948 m 0.11 span 3.382 
+passive  W6 Twist-only extension (control) feas=False cruise  +3.21% loiter  +7.58% Di  -15.4% Dp  +7.8% root 1.050 join 1.122 pb2v 0.096 ail 0.986 m 0.24 span 3.795 A1 root; A2 joiner
+gla      W0 Baseline                      feas=True  cruise  +0.00% loiter  +0.00% Di   +0.0% Dp  +0.0% root 1.000 join 1.000 pb2v 0.144 ail 0.919 m 0.00 span 3.300 
+gla      W1 Software-only alleviation     feas=True  cruise  +0.00% loiter  +0.00% Di   +0.0% Dp  +0.0% root 0.866 join 0.733 pb2v 0.144 ail 0.919 m 0.00 span 3.300 
+gla      W2 Recommended                   feas=True  cruise  +5.88% loiter +10.16% Di  -21.1% Dp  +5.0% root 0.958 join 0.937 pb2v 0.132 ail 0.986 m 0.22 span 3.712 
+gla      W3 Lifting-line rank 1, rejected by VLM feas=True  cruise  +6.70% loiter +11.89% Di  -24.1% Dp  +6.1% root 0.973 join 0.976 pb2v 0.137 ail 0.989 m 0.24 span 3.795 
+gla      W4 Max loiter                    feas=True  cruise  +6.27% loiter +11.91% Di  -24.3% Dp  +8.0% root 0.984 join 0.997 pb2v 0.129 ail 0.989 m 0.27 span 3.877 
+gla      W5 Max roll authority            feas=True  cruise  +1.24% loiter  +1.85% Di   -4.7% Dp  +1.2% root 0.961 join 0.927 pb2v 0.149 ail 0.948 m 0.11 span 3.382 
+gla      W6 Twist-only extension (control) feas=False cruise  +3.21% loiter  +7.58% Di  -15.4% Dp  +7.8% root 1.050 join 1.122 pb2v 0.096 ail 0.986 m 0.24 span 3.795 A1 root; A2 joiner
+man      W0 Baseline                      feas=True  cruise  +0.00% loiter  +0.00% Di   +0.0% Dp  +0.0% root 1.000 join 1.000 pb2v 0.144 ail 0.919 m 0.00 span 3.300 
+man      W1 Software-only alleviation     feas=True  cruise  +0.00% loiter  +0.00% Di   +0.0% Dp  +0.0% root 0.866 join 0.733 pb2v 0.144 ail 0.919 m 0.00 span 3.300 
+man      W2 Recommended                   feas=True  cruise  +5.88% loiter +10.16% Di  -21.1% Dp  +5.0% root 0.958 join 0.937 pb2v 0.132 ail 0.986 m 0.22 span 3.712 
+man      W3 Lifting-line rank 1, rejected by VLM feas=True  cruise  +6.70% loiter +11.89% Di  -24.1% Dp  +6.1% root 0.973 join 0.976 pb2v 0.137 ail 0.989 m 0.24 span 3.795 
+man      W4 Max loiter                    feas=True  cruise  +6.27% loiter +11.91% Di  -24.3% Dp  +8.0% root 0.984 join 0.997 pb2v 0.129 ail 0.989 m 0.27 span 3.877 
+man      W5 Max roll authority            feas=True  cruise  +1.24% loiter  +1.85% Di   -4.7% Dp  +1.2% root 0.961 join 0.927 pb2v 0.149 ail 0.948 m 0.11 span 3.382 
+man      W6 Twist-only extension (control) feas=False cruise  +3.21% loiter  +7.58% Di  -15.4% Dp  +7.8% root 1.050 join 1.122 pb2v 0.096 ail 0.986 m 0.24 span 3.795 A1 root; A2 joiner
+theory {'ck_115': np.float64(-16.73), 'ell_115': np.float64(-26.71), 'ck_1075': np.float64(-12.86), 'ell_1075': np.float64(-16.12)}
+W0 baseline          root 7.539 N m  joiner(0.290 m) 2.964 N m  | 0.063:0.343  0.187:0.344  0.312:0.332  0.437:0.310  0.562:0.275  0.686:0.239  0.802:0.157  0.938:0.000
+W2 alleviation off   root 8.204 N m  joiner(0.290 m) 3.550 N m  | 0.063:0.320  0.187:0.319  0.312:0.310  0.437:0.287  0.562:0.261  0.686:0.229  0.810:0.189  0.916:0.084
+W2 alleviation on    root 7.224 N m  joiner(0.290 m) 2.776 N m  | 0.063:0.384  0.187:0.381  0.312:0.364  0.436:0.321  0.555:0.204  0.685:0.130  0.816:0.125  0.917:0.091
+W3 alleviation off   root 8.324 N m  joiner(0.290 m) 3.657 N m  | 0.063:0.315  0.187:0.315  0.311:0.307  0.437:0.286  0.561:0.256  0.686:0.228  0.810:0.191  0.925:0.103
+W3 alleviation on    root 7.341 N m  joiner(0.290 m) 2.892 N m  | 0.063:0.382  0.187:0.380  0.311:0.363  0.435:0.317  0.556:0.184  0.685:0.129  0.817:0.129  0.926:0.114

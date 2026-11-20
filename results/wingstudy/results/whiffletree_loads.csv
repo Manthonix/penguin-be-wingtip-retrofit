@@ -1,0 +1,41 @@
+loading,strip,position_on_1m_spar_m,hung_mass_kg
+W0 baseline,1,0.063,0.343
+W0 baseline,2,0.187,0.344
+W0 baseline,3,0.312,0.332
+W0 baseline,4,0.437,0.310
+W0 baseline,5,0.562,0.275
+W0 baseline,6,0.686,0.239
+W0 baseline,7,0.802,0.157
+W0 baseline,8,0.938,0.000
+W2 alleviation off,1,0.063,0.320
+W2 alleviation off,2,0.187,0.319
+W2 alleviation off,3,0.312,0.310
+W2 alleviation off,4,0.437,0.287
+W2 alleviation off,5,0.562,0.261
+W2 alleviation off,6,0.686,0.229
+W2 alleviation off,7,0.810,0.189
+W2 alleviation off,8,0.916,0.084
+W2 alleviation on,1,0.063,0.384
+W2 alleviation on,2,0.187,0.381
+W2 alleviation on,3,0.312,0.364
+W2 alleviation on,4,0.436,0.321
+W2 alleviation on,5,0.555,0.204
+W2 alleviation on,6,0.685,0.130
+W2 alleviation on,7,0.816,0.125
+W2 alleviation on,8,0.917,0.091
+W3 alleviation off,1,0.063,0.315
+W3 alleviation off,2,0.187,0.315
+W3 alleviation off,3,0.311,0.307
+W3 alleviation off,4,0.437,0.286
+W3 alleviation off,5,0.561,0.256
+W3 alleviation off,6,0.686,0.228
+W3 alleviation off,7,0.810,0.191
+W3 alleviation off,8,0.925,0.103
+W3 alleviation on,1,0.063,0.382
+W3 alleviation on,2,0.187,0.380
+W3 alleviation on,3,0.311,0.363
+W3 alleviation on,4,0.435,0.317
+W3 alleviation on,5,0.556,0.184
+W3 alleviation on,6,0.685,0.129
+W3 alleviation on,7,0.817,0.129
+W3 alleviation on,8,0.926,0.114

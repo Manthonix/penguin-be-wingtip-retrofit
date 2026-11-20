@@ -1,0 +1,17 @@
+span (m),3.7125
+span ratio s,1.125
+wing area (m2),0.8357
+aspect ratio,16.49
+extension length per side (mm),206.3
+extension taper (tip/root chord),0.4
+extension tip chord (mm),63.4
+extension tip twist (deg),-4
+added mass incl. fittings (kg),0.217
+cruise aileron trim (deg),0
+alleviation gain (deg per g),7.5
+aileron full-up load factor,3.67
+3.8 g root bending / rating (VLM),0.978
+3.8 g joiner bending / rating (VLM),0.977
+"cruise endurance gain, lifting line (%)",5.88
+"cruise endurance gain, AeroBuildup (%)",4.35
+"induced drag change, VLM (%)",-20.59
